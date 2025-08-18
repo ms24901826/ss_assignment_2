@@ -7,7 +7,7 @@ ruby '3.4.1'
 gem 'omniauth-google-oauth2'
 
 # Rails
-gem "rails", "~> 7.2.2"
+gem "rails", "~> 8.0.2"
 
 # Drivers
 gem "pg", "~> 1.5"
